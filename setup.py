@@ -4,7 +4,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="iris_using_circle_ci",
+    name="smart_machine_efficiency_project",
     version="0.1",
     author="pranabmir",
     packages=find_packages(),
